@@ -145,6 +145,7 @@ object frmCadastroFormulario: TfrmCadastroFormulario
       Top = 468
       Width = 234
       Height = 41
+      Cursor = crHandPoint
       Caption = 'Include'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWhite

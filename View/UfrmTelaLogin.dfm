@@ -145,6 +145,7 @@ object frmTelaLogin: TfrmTelaLogin
     Top = 8
     Width = 29
     Height = 33
+    Cursor = crHandPoint
     Picture.Data = {
       0954506E67496D61676589504E470D0A1A0A0000000D49484452000000200000
       00200806000000737A7AF400000006624B474400FF00FF00FFA0BDA793000001
@@ -174,6 +175,7 @@ object frmTelaLogin: TfrmTelaLogin
     Top = 240
     Width = 161
     Height = 25
+    Cursor = crHandPoint
     Caption = 'Go!'
     TabOrder = 2
     OnClick = btn_IrClick

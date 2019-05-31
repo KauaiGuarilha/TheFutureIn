@@ -95,6 +95,7 @@ object frmConsultaProfessor: TfrmConsultaProfessor
       Top = 408
       Width = 201
       Height = 41
+      Cursor = crHandPoint
       Caption = 'Include'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWhite
@@ -140,6 +141,7 @@ object frmConsultaProfessor: TfrmConsultaProfessor
     Top = 432
     Width = 145
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Delete'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite
@@ -155,6 +157,7 @@ object frmConsultaProfessor: TfrmConsultaProfessor
     Top = 432
     Width = 145
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Refresh'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite

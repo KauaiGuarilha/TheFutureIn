@@ -112,6 +112,7 @@ object frmConsultaTurma: TfrmConsultaTurma
       Top = 392
       Width = 216
       Height = 41
+      Cursor = crHandPoint
       Caption = 'Register'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWhite
@@ -140,6 +141,7 @@ object frmConsultaTurma: TfrmConsultaTurma
     Top = 432
     Width = 137
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Delete'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite
@@ -155,6 +157,7 @@ object frmConsultaTurma: TfrmConsultaTurma
     Top = 432
     Width = 137
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Refresh'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite

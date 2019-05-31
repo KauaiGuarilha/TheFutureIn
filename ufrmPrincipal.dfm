@@ -28,6 +28,7 @@ object frmPrincipal: TfrmPrincipal
       Top = 20
       Width = 33
       Height = 33
+      Cursor = crHandPoint
       Picture.Data = {
         055449636F6E0000010002001010000001002000680400002600000020200000
         01002000A81000008E0400002800000010000000200000000100200000000000
@@ -341,6 +342,7 @@ object frmPrincipal: TfrmPrincipal
       Top = 312
       Width = 233
       Height = 49
+      Cursor = crHandPoint
       Caption = 'Grades'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWindowText
@@ -357,6 +359,7 @@ object frmPrincipal: TfrmPrincipal
     Top = 151
     Width = 233
     Height = 49
+    Cursor = crHandPoint
     Caption = 'Teacher'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite
@@ -372,6 +375,7 @@ object frmPrincipal: TfrmPrincipal
     Top = 206
     Width = 233
     Height = 49
+    Cursor = crHandPoint
     Caption = 'Class'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -387,6 +391,7 @@ object frmPrincipal: TfrmPrincipal
     Top = 96
     Width = 233
     Height = 49
+    Cursor = crHandPoint
     Caption = 'Student'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -446,6 +451,7 @@ object frmPrincipal: TfrmPrincipal
       Top = 503
       Width = 145
       Height = 34
+      Cursor = crHandPoint
       Caption = 'Include'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWhite
@@ -461,6 +467,7 @@ object frmPrincipal: TfrmPrincipal
       Top = 503
       Width = 145
       Height = 34
+      Cursor = crHandPoint
       Caption = 'Refresh'
       Font.Charset = ANSI_CHARSET
       Font.Color = clWhite
@@ -477,6 +484,7 @@ object frmPrincipal: TfrmPrincipal
     Top = 503
     Width = 138
     Height = 34
+    Cursor = crHandPoint
     Caption = 'Delete'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite

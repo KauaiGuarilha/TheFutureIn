@@ -172,6 +172,7 @@ object frmConsultaAluno: TfrmConsultaAluno
     Top = 480
     Width = 216
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Register'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWhite
@@ -196,6 +197,7 @@ object frmConsultaAluno: TfrmConsultaAluno
     Top = 464
     Width = 137
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Refresh'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -211,6 +213,7 @@ object frmConsultaAluno: TfrmConsultaAluno
     Top = 464
     Width = 137
     Height = 41
+    Cursor = crHandPoint
     Caption = 'Delete'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
